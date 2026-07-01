@@ -1,0 +1,795 @@
+{
+  "report_metadata": {
+    "generated_at": "2026-06-29T05:32:01.451673+00:00Z",
+    "run_type": "Daily Delta Analysis"
+  },
+  "intelligence": {
+    "Alfanar Projects": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Nesma & Partners": {
+      "deals_identified": 18,
+      "new_deals_today": 11,
+      "deals": [
+        {
+          "project_title": "Two Substation Projects",
+          "client_entity": "Saudi Energy",
+          "deal_status": "Awarded",
+          "declared_value": "Undisclosed",
+          "deal_date": "April 2026",
+          "strategic_implication_for_algihaz": "NIT is capturing market share in substation infrastructure; Algihaz should monitor Saudi Energy's upcoming tender pipeline to compete for similar EPC substation scopes.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-29T05:33:03.965148+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "132kV Cable Replacement Contract",
+          "client_entity": "Saudi Electricity Company (SEC)",
+          "deal_status": "Awarded",
+          "declared_value": "Undisclosed",
+          "deal_date": "February 2026",
+          "strategic_implication_for_algihaz": "High-voltage cable replacement is a core competency for Algihaz; the frequency of these awards to competitors suggests a need to strengthen bidding presence with SEC.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-29T05:33:03.965165+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Two Major SEC Contracts in Jubail",
+          "client_entity": "Saudi Electricity Company (SEC)",
+          "deal_status": "Awarded",
+          "declared_value": "Undisclosed",
+          "deal_date": "January 2026",
+          "strategic_implication_for_algihaz": "Jubail remains a high-activity industrial zone; Algihaz should leverage its local presence to target upcoming industrial electrification and grid expansion projects in the Eastern Province.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-29T05:33:03.965168+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "New Contract with SEC (National Grid SA)",
+          "client_entity": "National Grid SA",
+          "deal_status": "Signed",
+          "declared_value": "Undisclosed",
+          "deal_date": "November 2025",
+          "strategic_implication_for_algihaz": "Direct engagement with National Grid SA indicates a strong pipeline for transmission infrastructure; Algihaz must ensure pre-qualification status is current for upcoming grid reinforcement projects.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-29T05:33:03.965169+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "New Contracts with Saudi Electricity Company",
+          "client_entity": "Saudi Electricity Company (SEC)",
+          "deal_status": "Signed",
+          "declared_value": "Undisclosed",
+          "deal_date": "September 2025",
+          "strategic_implication_for_algihaz": "Consistent contract flow to competitors in the SEC space signals a high-demand period for grid maintenance and expansion; Algihaz should focus on value-added service offerings to differentiate.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-29T05:33:03.965171+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Replacement of Abqaiq Substation 49 (230/69kV)",
+          "client_entity": "Saudi Energy",
+          "deal_status": "Signed",
+          "declared_value": "SAR 250 million",
+          "deal_date": "June 2026",
+          "strategic_implication_for_algihaz": "Competitor NIT is securing critical grid modernization projects in the Eastern Region. Algihaz should monitor future SEC/Saudi Energy tenders for substation replacements as this indicates a shift toward upgrading aging infrastructure rather than just greenfield development.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-29T05:33:05.289730+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Construction of 132/33 kV Rafaya Substation (SS#8611)",
+          "client_entity": "Saudi Energy",
+          "deal_status": "Signed",
+          "declared_value": "SAR 130 million",
+          "deal_date": "June 2026",
+          "strategic_implication_for_algihaz": "NIT is expanding its footprint in the Dawadmi region. Algihaz should evaluate its current capacity in central Saudi Arabia to ensure competitive positioning for upcoming distribution network upgrades and substation construction tenders.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-29T05:33:05.289738+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Replacement of Jubail North and Jubail Southeast high-voltage substations and associated transmission works",
+          "client_entity": "Royal Commission for Jubail and Yanbu",
+          "deal_status": "Pipeline/Active Tracking",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "This project represents a critical opportunity for Algihaz to leverage its expertise in high-voltage substation retrofits and transmission infrastructure within the Jubail industrial hub. Algihaz should monitor the tender release for these specific substation replacements to compete against established EPC contractors in the Eastern Province.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-29T05:33:06.379569+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Construction of two 380kV double-circuit overhead transmission lines",
+          "client_entity": "SEC (National Grid SA)",
+          "deal_status": "Signed",
+          "declared_value": "150 million SAR",
+          "deal_date": "June 2026",
+          "strategic_implication_for_algihaz": "Direct competition from NIT in the high-voltage transmission sector. Algihaz should monitor NIT's capacity utilization and SEC's procurement pipeline to identify upcoming 380kV tender opportunities where Algihaz can leverage its own transmission expertise.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-29T05:33:07.403851+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Al-Baha CPS Substation 33 kV switchgear room installation and Namera North-Mikwah line re-conductoring",
+          "client_entity": "SEC",
+          "deal_status": "Awarded",
+          "declared_value": "SAR 135 million",
+          "deal_date": "June 2026",
+          "strategic_implication_for_algihaz": "Strengthens SEC relationship in the Tihamah region; indicates ongoing demand for grid reliability upgrades and brownfield re-conductoring projects.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-29T05:33:08.800831+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Jubail Community (7AB) 230/115 kV BSP and 230 kV transmission line integration",
+          "client_entity": "SEC",
+          "deal_status": "Awarded",
+          "declared_value": "SAR 445 million",
+          "deal_date": "June 2026",
+          "strategic_implication_for_algihaz": "High-value turnkey opportunity in the Eastern Province; demonstrates continued investment in industrial power infrastructure for Jubail; Algihaz should monitor similar BSP tenders for industrial hubs.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-29T05:33:08.800838+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Abqaiq Substation 49 (230/69kV) Replacement",
+          "client_entity": "Saudi Energy",
+          "deal_status": "Signed",
+          "declared_value": "SAR 250 million",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "Direct competition in substation modernization and grid reliability projects; indicates NIT's growing footprint in Eastern Region infrastructure.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-28T18:26:42.208864+00:00Z",
+          "is_new": false
+        },
+        {
+          "project_title": "Rafaya Substation (SS#8611) Construction",
+          "client_entity": "Saudi Energy",
+          "deal_status": "Signed",
+          "declared_value": "SAR 130 million",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "Competitor expansion into Dawadmi substation construction, signaling potential pressure on regional market share for grid infrastructure.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-28T18:26:42.208885+00:00Z",
+          "is_new": false
+        },
+        {
+          "project_title": "132kV Underground Cable Circuits Replacement",
+          "client_entity": "Saudi Electricity Company",
+          "deal_status": "Signed",
+          "declared_value": "Not specified",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "NIT is securing critical underground cabling work in the Central Operating Area, a key segment for Algihaz's transmission capabilities.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-28T18:26:42.208891+00:00Z",
+          "is_new": false
+        },
+        {
+          "project_title": "Jubail North and Jubail Southeast High-Voltage Substations Replacement",
+          "client_entity": "Saudi Electricity Company",
+          "deal_status": "Awarded",
+          "declared_value": "SAR 1.48 billion",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "Significant competitive threat in high-voltage industrial infrastructure; demonstrates NIT's capacity to handle large-scale EPC contracts in key industrial hubs.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-28T18:26:42.208894+00:00Z",
+          "is_new": false
+        },
+        {
+          "project_title": "380kV Double-Circuit Overhead Transmission Lines",
+          "client_entity": "Saudi Electricity Company (National Grid SA)",
+          "deal_status": "Signed",
+          "declared_value": "SAR 150 million",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "Direct competition in high-voltage OHTL projects, a core competency for Algihaz.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-28T18:26:42.208897+00:00Z",
+          "is_new": false
+        },
+        {
+          "project_title": "230 kV and 115 kV Interties Project",
+          "client_entity": "Saudi Electricity Company",
+          "deal_status": "Signed",
+          "declared_value": "SAR 340 million",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "NIT is strengthening its position in the Eastern Operating Area, potentially limiting future tender opportunities for Algihaz in Jubail.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-28T18:26:42.208899+00:00Z",
+          "is_new": false
+        },
+        {
+          "project_title": "Al-Baha CPS Substation 33 kV Switchgear and Namera-Mikwah Re-conductoring",
+          "client_entity": "Saudi Electricity Company",
+          "deal_status": "Signed",
+          "declared_value": "SAR 135 million",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "Expansion into Tihamah region indicates NIT's geographic diversification, challenging Algihaz's reach in secondary regional grids.",
+          "competitor": "Nesma & Partners",
+          "scraped_at": "2026-06-28T18:26:42.208902+00:00Z",
+          "is_new": false
+        }
+      ]
+    },
+    "Saudi Services for Electro Mechanic Works (SSEM)": {
+      "deals_identified": 1,
+      "new_deals_today": 1,
+      "deals": [
+        {
+          "project_title": "NIC South 380/132/33kV BSP and associated 380kV OHTLs",
+          "client_entity": "Saudi Electricity Company",
+          "deal_status": "Pipeline/Active Tracking",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "This project is critical for NEOM's power infrastructure. Algihaz should leverage its expertise in 380kV OHTL and GIS substation construction to bid for the interconnection packages, as this represents a high-priority utility expansion for the Saudi Electricity Company in the Northwest region.",
+          "competitor": "Saudi Services for Electro Mechanic Works (SSEM)",
+          "scraped_at": "2026-06-29T05:33:11.641240+00:00Z",
+          "is_new": true
+        }
+      ]
+    },
+    "L&T Power Transmission & Distribution": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "National Contracting Company (NCC)": {
+      "deals_identified": 13,
+      "new_deals_today": 11,
+      "deals": [
+        {
+          "project_title": "General T&D Engineering and Turnkey Services",
+          "client_entity": "Saudi Arabia & Bahrain Power Sectors",
+          "deal_status": "Pipeline",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "NCC T&D KSA represents a direct competitor in the EHV and HVDC turnkey space. Algihaz should monitor their project wins in Bahrain and KSA to benchmark pricing and technical capabilities for upcoming National Grid SA tenders.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:37.989166+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "NCC T&D International EPC Portfolio (EHV Transmission and Substations)",
+          "client_entity": "Various International Utility Authorities",
+          "deal_status": "Under Execution",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "NCC T&D represents a direct regional competitor in the EHV substation and transmission line space. Their capability to execute up to 765KV projects indicates a high technical barrier to entry. Algihaz should monitor their expansion into the Saudi market, specifically targeting their pricing models for 400KV GIS substations to maintain competitive positioning.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:39.186923+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "400kV GIS/GIB modifications at the GCCIA Jasra Substation",
+          "client_entity": "GCCIA (Gulf Cooperation Council Interconnection Authority)",
+          "deal_status": "Under Execution",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "This project demonstrates high-level technical capability in cross-border grid infrastructure. Algihaz should monitor GCCIA tender pipelines for future interconnection expansion projects in the Eastern Province to leverage similar GIS/GIB expertise.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:40.172188+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Overhead Transmission Lines Maintenance and OPGW Retrofitting",
+          "client_entity": "National Grid SA",
+          "deal_status": "Pipeline",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "High priority for Algihaz's O&M division. The integration of OPGW indicates a shift toward smart grid infrastructure; Algihaz should leverage its existing fiber optic capabilities to secure long-term maintenance contracts with National Grid SA.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:41.538916+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Substation Extension, Modification, and Integration Works",
+          "client_entity": "SEC / National Grid SA",
+          "deal_status": "Pipeline",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "Represents a recurring revenue opportunity in grid modernization. Algihaz should position its engineering teams to bid for brownfield substation upgrades, focusing on the growing demand for grid stability in the Central and Western regions.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:41.538922+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "NCC T&D KSA Turnkey Substations and Transmission Projects",
+          "client_entity": "Various KSA Power Sector Entities",
+          "deal_status": "Under Execution",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "NCC T&D represents a direct competitor in the EHV and HVDC turnkey space. Algihaz should monitor their project pipeline in the Eastern Province to defend market share in substation and underground cabling tenders.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:43.442057+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "NCC T&D Kuwait EHV Substation and Cabling Works",
+          "client_entity": "Kuwait Ministry of Electricity and Water",
+          "deal_status": "Under Execution",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "NCC's established presence in Kuwait indicates a regional expansion strategy. Algihaz should evaluate potential partnership or competitive positioning if bidding for cross-border grid interconnection projects.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:43.442066+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "NCC T&D Qatar EPC High Voltage Infrastructure",
+          "client_entity": "Qatar General Electricity and Water Corporation (KAHRAMAA)",
+          "deal_status": "Under Execution",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "NCC's capability in MV distribution and EHV cabling in Qatar suggests they are positioning for regional utility upgrades. Algihaz should leverage its local Saudi expertise to outcompete on technical delivery speed in similar regional tenders.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:43.442067+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "International EPC Transmission and Distribution Projects",
+          "client_entity": "Various International Utility Clients",
+          "deal_status": "Under Execution",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "NCC T&D represents a significant regional competitor in the 765kV OHTL and 400kV substation space. Algihaz should monitor their expansion in the GCC and North Africa to identify potential partnership opportunities or competitive bidding risks in EHV infrastructure.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:45.428061+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Oman EPC High Voltage Substation and Cabling Services",
+          "client_entity": "Oman Utility Authorities",
+          "deal_status": "Under Execution",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "SNCC's presence in Oman for EHV underground cabling and substation work indicates a strong foothold in the Omani market. Algihaz should evaluate their technical capabilities in EHV cabling to benchmark against local Saudi market requirements.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:45.428069+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Egypt EPC High Voltage Substation and Transmission Infrastructure",
+          "client_entity": "Egyptian Electricity Transmission Company (EETC)",
+          "deal_status": "Under Execution",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "NCC's operations in Egypt highlight a focus on large-scale EHV infrastructure. Algihaz should assess the competitive landscape in Egypt as a potential export market for Saudi-based EPC expertise, particularly in cross-border grid interconnection projects.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:45.428070+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "400kV GIS/GIB modifications at the GCCIA Jasra Substation",
+          "client_entity": "GCCIA",
+          "deal_status": "Under Execution",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "The GCCIA Jasra project indicates active high-voltage infrastructure upgrades in the Bahrain market. Algihaz should monitor GCCIA tender cycles for similar 400kV GIS/GIB requirements to leverage its own substation expertise and compete against NCC in the regional grid interconnection space.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-29T05:33:46.495485+00:00Z",
+          "is_new": false
+        },
+        {
+          "project_title": "GCCIA Jasra Substation 400kV GIS/GIB Modifications",
+          "client_entity": "GCCIA (Gulf Cooperation Council Interconnection Authority)",
+          "deal_status": "Active Execution",
+          "declared_value": "Not Disclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "NCC demonstrates direct competitive capability in high-voltage GIS/GIB modifications for regional interconnection projects, posing a threat to Algihaz's market share in critical grid infrastructure upgrades.",
+          "competitor": "National Contracting Company (NCC)",
+          "scraped_at": "2026-06-28T18:26:59.812407+00:00Z",
+          "is_new": false
+        }
+      ]
+    },
+    "Nesma Infrastructure & Technology": {
+      "deals_identified": 11,
+      "new_deals_today": 11,
+      "deals": [
+        {
+          "project_title": "Two Substation Projects",
+          "client_entity": "Saudi Energy",
+          "deal_status": "Awarded",
+          "declared_value": "Undisclosed",
+          "deal_date": "April 2026",
+          "strategic_implication_for_algihaz": "NIT is actively capturing substation market share; Algihaz should monitor Saudi Energy's upcoming tender pipeline in the Central/Eastern regions to counter NIT's expansion.",
+          "competitor": "Nesma Infrastructure & Technology",
+          "scraped_at": "2026-06-29T05:34:13.052527+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "132kV Cable Replacement Contract",
+          "client_entity": "Saudi Electricity Company (SEC)",
+          "deal_status": "Awarded",
+          "declared_value": "Undisclosed",
+          "deal_date": "February 2026",
+          "strategic_implication_for_algihaz": "SEC is prioritizing grid reliability and maintenance; Algihaz should leverage its existing OHTL and cabling capabilities to bid for similar brownfield upgrade projects.",
+          "competitor": "Nesma Infrastructure & Technology",
+          "scraped_at": "2026-06-29T05:34:13.052535+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Two Major SEC Contracts in Jubail",
+          "client_entity": "Saudi Electricity Company (SEC)",
+          "deal_status": "Awarded",
+          "declared_value": "Undisclosed",
+          "deal_date": "January 2026",
+          "strategic_implication_for_algihaz": "Jubail remains a high-activity zone for industrial power infrastructure; Algihaz should focus on securing sub-contracting or partnership opportunities in the Eastern Province industrial hubs.",
+          "competitor": "Nesma Infrastructure & Technology",
+          "scraped_at": "2026-06-29T05:34:13.052537+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "New Contract with SEC (National Grid SA)",
+          "client_entity": "National Grid SA",
+          "deal_status": "Signed",
+          "declared_value": "Undisclosed",
+          "deal_date": "November 2025",
+          "strategic_implication_for_algihaz": "National Grid SA is a key client for high-voltage transmission; Algihaz must ensure its pre-qualification status is current for upcoming transmission line tenders.",
+          "competitor": "Nesma Infrastructure & Technology",
+          "scraped_at": "2026-06-29T05:34:13.052538+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "New Contracts with Saudi Electricity Company",
+          "client_entity": "Saudi Electricity Company (SEC)",
+          "deal_status": "Signed",
+          "declared_value": "Undisclosed",
+          "deal_date": "September 2025",
+          "strategic_implication_for_algihaz": "Consistent contract flow to competitors indicates a strong SEC procurement cycle; Algihaz should evaluate its pricing strategy for upcoming grid expansion projects.",
+          "competitor": "Nesma Infrastructure & Technology",
+          "scraped_at": "2026-06-29T05:34:13.052539+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Abqaiq Substation 49 (230/69kV) Replacement",
+          "client_entity": "Saudi Energy",
+          "deal_status": "Signed",
+          "declared_value": "SAR 250 million",
+          "deal_date": "June 2026",
+          "strategic_implication_for_algihaz": "The Eastern Region remains a high-priority zone for grid modernization. Algihaz should monitor Nesma's execution capacity and target upcoming substation upgrade tenders in the Eastern Province to maintain competitive positioning against NIT.",
+          "competitor": "Nesma Infrastructure & Technology",
+          "scraped_at": "2026-06-29T05:34:14.518080+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "132/33 kV Rafaya Substation (SS#8611) Construction",
+          "client_entity": "Saudi Energy",
+          "deal_status": "Signed",
+          "declared_value": "SAR 130 million",
+          "deal_date": "June 2026",
+          "strategic_implication_for_algihaz": "The focus on replacing aging infrastructure (SS#8601) in Dawadmi indicates a broader trend of utility asset renewal. Algihaz should leverage its expertise in brownfield substation projects to bid on similar replacement contracts in central regions.",
+          "competitor": "Nesma Infrastructure & Technology",
+          "scraped_at": "2026-06-29T05:34:14.518097+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Replacement of Jubail North and Jubail Southeast high-voltage substations and associated transmission works",
+          "client_entity": "Royal Commission for Jubail and Yanbu",
+          "deal_status": "Pipeline/Active Tracking",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "This project represents a critical opportunity for Algihaz to leverage its expertise in high-voltage substation retrofits and transmission infrastructure within the Jubail industrial hub. Algihaz should monitor the tender release to position itself as a primary EPC contractor for grid reliability upgrades, as this aligns with the Kingdom's industrial capacity expansion goals.",
+          "competitor": "Nesma Infrastructure & Technology",
+          "scraped_at": "2026-06-29T05:34:15.587177+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Construction of two 380kV double-circuit overhead transmission lines",
+          "client_entity": "SEC (National Grid SA)",
+          "deal_status": "Signed",
+          "declared_value": "150 million SAR",
+          "deal_date": "June 2026",
+          "strategic_implication_for_algihaz": "Direct competition from NIT in the high-voltage transmission sector. Algihaz should monitor NIT's capacity utilization and SEC's procurement pipeline to identify upcoming 380kV tender opportunities where Algihaz can leverage its own transmission expertise.",
+          "competitor": "Nesma Infrastructure & Technology",
+          "scraped_at": "2026-06-29T05:34:16.582440+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Al-Baha CPS Substation 33 kV switchgear room and Namera North-Mikwah line re-conductoring",
+          "client_entity": "Saudi Electricity Company (SEC)",
+          "deal_status": "Awarded",
+          "declared_value": "SAR 135 million",
+          "deal_date": "June 2026",
+          "strategic_implication_for_algihaz": "Strengthens presence in the Tihamah region and reinforces relationship with SEC for brownfield grid upgrades. Algihaz should leverage this track record to bid for similar re-conductoring projects in mountainous or challenging terrains.",
+          "competitor": "Nesma Infrastructure & Technology",
+          "scraped_at": "2026-06-29T05:34:18.052363+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Jubail Community (7AB) 230/115 kV BSP and 230 kV transmission line integration",
+          "client_entity": "Saudi Electricity Company (SEC)",
+          "deal_status": "Awarded",
+          "declared_value": "SAR 445 million",
+          "deal_date": "June 2026",
+          "strategic_implication_for_algihaz": "High-value turnkey project in the industrial hub of Jubail. This signals a continued focus on heavy industrial electrification. Algihaz should monitor future expansion phases in Jubail and similar industrial zones for potential EPC opportunities.",
+          "competitor": "Nesma Infrastructure & Technology",
+          "scraped_at": "2026-06-29T05:34:18.052370+00:00Z",
+          "is_new": true
+        }
+      ]
+    },
+    "China Electric Power Equipment and Technology (CET)": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Tata Projects": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Rawabi Electric": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "WESCOSA": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Hyundai Engineering & Construction": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Bahra Electric": {
+      "deals_identified": 4,
+      "new_deals_today": 2,
+      "deals": [
+        {
+          "project_title": "Manufacturing of OPGW Optical Fibers",
+          "client_entity": "Prysmian",
+          "deal_status": "Signed",
+          "declared_value": "Undisclosed",
+          "deal_date": "8 January 2025",
+          "strategic_implication_for_algihaz": "Bahra Electric is localizing OPGW production, a critical component for smart grid and transmission line monitoring. Algihaz should evaluate its own supply chain for OPGW and assess if this partnership creates a new local competitor for utility-scale communication infrastructure projects.",
+          "competitor": "Bahra Electric",
+          "scraped_at": "2026-06-29T05:35:32.126540+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Inauguration of new production lines for MV Cable Accessories and Oil-Type Transformers",
+          "client_entity": "Ministry of Energy",
+          "deal_status": "Under Execution",
+          "declared_value": "Undisclosed",
+          "deal_date": "8 January 2025",
+          "strategic_implication_for_algihaz": "The expansion into MV cable accessories and oil-type transformers signals a push for deeper localization in distribution networks. Algihaz should monitor Bahra Electric's pricing and lead times as they scale, as this directly impacts the cost-competitiveness of Algihaz's own distribution and substation projects.",
+          "competitor": "Bahra Electric",
+          "scraped_at": "2026-06-29T05:35:32.126547+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Abqaiq Plant Restoration",
+          "client_entity": "Saudi Aramco",
+          "deal_status": "Awarded",
+          "declared_value": "Undisclosed",
+          "deal_date": "12 September 2024",
+          "strategic_implication_for_algihaz": "Bahra Electric has secured a strong relationship with Saudi Aramco for critical infrastructure restoration. Algihaz must monitor Bahra Electric's expansion into industrial power supply and plant-level electrification to maintain competitive parity in the oil and gas sector.",
+          "competitor": "Bahra Electric",
+          "scraped_at": "2026-06-29T05:35:33.028014+00:00Z",
+          "is_new": false
+        },
+        {
+          "project_title": "Abqaiq Plant Restoration",
+          "client_entity": "Saudi Aramco",
+          "deal_status": "Awarded",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "Bahra Electric's recognition by Saudi Aramco for critical infrastructure restoration signals a strong incumbent position in industrial electrification and power supply. Algihaz should monitor Bahra's supply chain integration with Aramco and target upcoming maintenance or expansion tenders in the Eastern Province to counter their market share.",
+          "competitor": "Bahra Electric",
+          "scraped_at": "2026-06-29T05:35:34.175644+00:00Z",
+          "is_new": false
+        }
+      ]
+    },
+    "Al-Ojaimi Group": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "MEMF Electrical Industries": {
+      "deals_identified": 3,
+      "new_deals_today": 3,
+      "deals": [
+        {
+          "project_title": "General Grid Integration and Utility Solutions",
+          "client_entity": "Various Utility Developers",
+          "deal_status": "Pipeline",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "Represents a broad market opportunity for Algihaz to position its EPC capabilities in solar-to-grid integration, specifically targeting utility-scale developers requiring reliable grid connection infrastructure.",
+          "competitor": "MEMF Electrical Industries",
+          "scraped_at": "2026-06-29T05:35:36.718385+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Grid-Ready Infrastructure and Switchgear Supply",
+          "client_entity": "National Grid SA / Regional Utilities",
+          "deal_status": "Pipeline",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "High demand for localized manufacturing of switchgear and transformers; Algihaz should leverage its existing supply chain to capture market share in the ongoing grid modernization programs.",
+          "competitor": "MEMF Electrical Industries",
+          "scraped_at": "2026-06-29T05:35:36.718396+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Smart Metering and Grid Automation Deployment",
+          "client_entity": "SEC / Saudi Aramco",
+          "deal_status": "Pipeline",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "The shift toward smart grid standards necessitates technical partnerships; Algihaz should focus on securing service contracts for the installation and maintenance of automated grid control systems.",
+          "competitor": "MEMF Electrical Industries",
+          "scraped_at": "2026-06-29T05:35:36.718399+00:00Z",
+          "is_new": true
+        }
+      ]
+    },
+    "CEPCO": {
+      "deals_identified": 3,
+      "new_deals_today": 1,
+      "deals": [
+        {
+          "project_title": "SEC Approved Contractor Substations and STATCOM Stations",
+          "client_entity": "Saudi Electric Company (SEC)",
+          "deal_status": "Pipeline",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "CEPCO maintains active pre-qualification for 132kV substations and STATCOM technology, positioning them as a direct competitor for SEC grid stability projects. Algihaz should leverage its higher voltage capabilities (380kV+) to differentiate from CEPCO's current 132kV focus.",
+          "competitor": "CEPCO",
+          "scraped_at": "2026-06-29T05:35:39.224032+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "Electric Power Transmission Projects up to 380 kV",
+          "client_entity": "Saudi Electricity Company (SEC), Marafiq, DEWA",
+          "deal_status": "Active Execution",
+          "declared_value": "Not Disclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "CEPCO represents a direct competitor in the high-voltage transmission sector (up to 380 kV). Their established relationships with SEC and Marafiq indicate a strong market footprint that could challenge Algihaz's bidding competitiveness for similar grid infrastructure projects.",
+          "competitor": "CEPCO",
+          "scraped_at": "2026-06-28T18:28:10.952562+00:00Z",
+          "is_new": false
+        },
+        {
+          "project_title": "Substations up to 132 kV and STATCOM stations",
+          "client_entity": "Saudi Electricity Company (SEC)",
+          "deal_status": "Active Execution",
+          "declared_value": "Not Disclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "CEPCO's status as an approved contractor for 132 kV substations and specialized STATCOM technology suggests they are targeting niche grid stability projects, potentially limiting Algihaz's market share in specialized utility upgrades.",
+          "competitor": "CEPCO",
+          "scraped_at": "2026-06-28T18:28:10.952568+00:00Z",
+          "is_new": false
+        }
+      ]
+    },
+    "Sedar Group": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "A. Al-Saihati Contracting (SIGMA)": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Saudi Electricity Company (SEC)": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "National Grid SA": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "MODON (Saudi Authority for Industrial Cities)": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Marafiq": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Saudi Aramco": {
+      "deals_identified": 1,
+      "new_deals_today": 1,
+      "deals": [
+        {
+          "project_title": "Samref Refinery Upgrade and New Petrochemical Complex",
+          "client_entity": "Saudi Aramco / ExxonMobil / Samref",
+          "deal_status": "Pipeline",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "This project represents a significant industrial electrification and power infrastructure opportunity. Algihaz should monitor the FEED stage to position for high-voltage substation and power distribution packages required for the new petrochemical complex, leveraging its existing relationship with Aramco.",
+          "competitor": "Saudi Aramco",
+          "scraped_at": "2026-06-29T05:37:11.364869+00:00Z",
+          "is_new": true
+        }
+      ]
+    },
+    "Saudi Government (Etimad)": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Saudi Projects (Aggregator)": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Construction Week Saudi": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Saudi Aramco Supplier Hub": {
+      "deals_identified": 1,
+      "new_deals_today": 1,
+      "deals": [
+        {
+          "project_title": "Samref refinery upgrade and new petrochemical complex",
+          "client_entity": "Saudi Aramco / ExxonMobil / Samref",
+          "deal_status": "Pipeline",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "This project represents a significant industrial electrification and power infrastructure opportunity within the Yanbu industrial hub. Algihaz should monitor the EPC tendering process for the associated substation and power distribution packages, leveraging its existing relationship with Aramco to secure early-stage involvement in the utility plant connection phase.",
+          "competitor": "Saudi Aramco Supplier Hub",
+          "scraped_at": "2026-06-29T05:38:08.489018+00:00Z",
+          "is_new": true
+        }
+      ]
+    },
+    "Utilities Middle East": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Saudi Gulf Projects": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    },
+    "Construction Week Middle East": {
+      "deals_identified": 2,
+      "new_deals_today": 1,
+      "deals": [
+        {
+          "project_title": "North Field South (NFS) Onshore Expansion Project",
+          "client_entity": "QatarEnergy",
+          "deal_status": "Awarded",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "The award to BUTEC signals strong competition in regional EPC power infrastructure. Algihaz should monitor BUTEC's capacity utilization and leverage its own local Saudi presence to bid on upcoming Aramco-related power expansion projects that require similar technical expertise.",
+          "competitor": "Construction Week Middle East",
+          "scraped_at": "2026-06-29T05:38:41.459798+00:00Z",
+          "is_new": true
+        },
+        {
+          "project_title": "North Field South (NFS) Onshore Expansion Project",
+          "client_entity": "QatarEnergy",
+          "deal_status": "Awarded",
+          "declared_value": "Undisclosed",
+          "deal_date": "Pipeline/Active Tracking",
+          "strategic_implication_for_algihaz": "The expansion of the North Field infrastructure involves significant electrical balance of plant (BOP) and substation requirements. Algihaz should monitor the subcontracting tiers for potential electrical package opportunities or partnerships with EPC contractors like BUTEC to expand its regional footprint beyond Saudi Arabia into the Qatari energy sector.",
+          "competitor": "Construction Week Middle East",
+          "scraped_at": "2026-06-29T05:38:42.589279+00:00Z",
+          "is_new": false
+        }
+      ]
+    },
+    "MEED (Middle East Economic Digest)": {
+      "deals_identified": 0,
+      "new_deals_today": 0,
+      "deals": []
+    }
+  }
+}
